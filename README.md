@@ -45,3 +45,6 @@
    - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
      - YAML support for VS Code
 
+## Settings JSON
+
+Settings json can be found [here](./settings.json)
